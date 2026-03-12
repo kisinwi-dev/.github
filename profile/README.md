@@ -1,5 +1,5 @@
-KiSinwi Dev is a machine learning platform focused on simplicity and accessibility.
+KiSinwi Dev - это платформа машинного обучения, ориентированная на простоту и доступность.
 
-We build tools that allow anyone to train and use ML models through a clean and intuitive interface.
+Мы создаем инструменты, которые позволяют любому обучать и использовать модели ML через чистый и интуитивно понятный интерфейс.
 
-🚧 Project under development.
+🚧 Проект находится в стадии разработки.
