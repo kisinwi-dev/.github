@@ -1,26 +1,26 @@
-## 📌 What was done
-Brief description of changes:
+## 📌 Что было сделано?
+Краткое описание изменений:
 - 
 - 
 
 ---
 
-## 🧪 How to test
-Steps for testing:
+## 🧪 Как проверить работоспособность
+Шаги для тестирования:
 1. 
 2. 
 3. 
 
 ---
 
-## 🔗 Related issues
-Closes #
-Related to #
+## 🔗 Связанные с этим вопросы
+Закрытые #
+Связан с #
 
 ---
 
-## ⚠️ Checklist
-- [ ] Code builds successfully
-- [ ] Tests added or updated (if applicable)
-- [ ] No breaking changes (or clearly documented)
-- [ ] Ready for review
+## ⚠️ Доп. параметры
+- [ ] Код компилируется
+- [ ] Добавление и обновление тестов (опционально)
+- [ ] Изменения не ломают старую логику
+- [ ] Готово к ревью
